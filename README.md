@@ -9,7 +9,7 @@ The [Tonality Ontology](http://purl.org/ontology/tonality/) defines concepts and
 David Pastor Escuredo, 2008.
 Centre for Digital Music, Queen Mary University of London
 
-See ISSUES to check the status of the document. 
+See [ISSUES](https://github.com/motools/tonalityontology/blob/master/ISSUES) to check the status of the document. 
 
 PS
 --
